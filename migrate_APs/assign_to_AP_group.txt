@@ -1,0 +1,264 @@
+config ap group-name BG-group APa0ec.f945.d6cc
+y
+config ap group-name BG-group WH1-02
+y
+config ap group-name BG-group AP0462.732e.90fc
+y
+config ap group-name BG-group AP5087.8990.864f
+y
+config ap group-name BG-group AP78da.6e8d.fd8a
+y
+config ap group-name BG-group AP78da.6e0f.8b59
+y
+config ap group-name BG-group SW-SF1-CAP-9D2C
+y
+config ap group-name BG-group WH2-01
+y
+config ap group-name BG-group DIA1-AP-03
+y
+config ap group-name BG-group Executive-AP-01
+y
+config ap group-name BG-group AP78da.6e85.0f0f
+y
+config ap group-name BG-group WHA3-04
+y
+config ap group-name BG-group OUTDOOR-PATIO2
+y
+config ap group-name BG-group sw4-pav2-west-ap
+y
+config ap group-name BG-group SW-SF1-CAP-673C
+y
+config ap group-name BG-group WH2-03
+y
+config ap group-name BG-group MDF-AP-11
+y
+config ap group-name BG-group AP885a.9270.be53
+y
+config ap group-name BG-group Marketing01
+y
+config ap group-name BG-group DIA1-AP-04
+y
+
+config ap group-name BG-group Studio03
+y
+config ap group-name BG-group TAKE-5
+y
+config ap group-name BG-group AP54a2.741b.767c
+y
+config ap group-name BG-group AP0462.732e.932c
+y
+config ap group-name BG-group OUTDOOR-PATIO1
+y
+config ap group-name BG-group WH1-03
+y
+config ap group-name BG-group Daves-02
+y
+config ap group-name BG-group Daves-01
+y
+config ap group-name BG-group SW-SF1-CAP-202C
+y
+config ap group-name BG-group AP885a.92c0.e913
+y
+config ap group-name BG-group PICK-MOD-LEVEL1
+y
+config ap group-name BG-group HealthClub
+y
+config ap group-name BG-group SW-SF1-CAP-F9D0
+y
+config ap group-name BG-group APe4aa.5d5a.f3a8
+y
+config ap group-name BG-group APe4aa.5d1b.4260
+y
+config ap group-name BG-group APa46c.2af5.452c
+y
+config ap group-name BG-group ConfHall-01
+y
+config ap group-name BG-group DIA1-AP-05
+y
+config ap group-name BG-group AP881d.fce7.1d3c
+y
+config ap group-name BG-group AP78da.6e52.5537
+y
+
+config ap group-name BG-group WHA3-02
+y
+config ap group-name BG-group AP78da.6e52.5c40
+y
+config ap group-name BG-group SW-SF1-CAP-1DA4
+y
+config ap group-name BG-group SW-SF1-CAP-E12C
+y
+config ap group-name BG-group SW-SF1-CAP-45E8
+y
+config ap group-name BG-group DIA1-AP-07
+y
+config ap group-name BG-group WHA3-01
+y
+config ap group-name BG-group Marketing02
+y
+config ap group-name BG-group DIA1-AP-01
+y
+config ap group-name BG-group WHA3-05
+y
+config ap group-name BG-group APf4cf.e2ab.c2a8
+y
+config ap group-name BG-group SW-SF1-CAP-D160
+y
+config ap group-name BG-group AP78da.6ec2.74cf
+y
+config ap group-name BG-group PhotoProductFutureRoom
+y
+config ap group-name BG-group AP881d.fcad.95ec
+y
+config ap group-name BG-group AP78da.6e52.58dd
+y
+config ap group-name BG-group AP5c83.8fcc.5540
+y
+config ap group-name BG-group DIA1-AP-02
+y
+config ap group-name BG-group Diner-AP-05
+y
+config ap group-name BG-group AP78da.6e52.5d43
+y
+
+config ap group-name BG-group AP885a.92a7.657b
+y
+config ap group-name BG-group AP885a.9270.ae98
+y
+config ap group-name BG-group WH2-04
+y
+config ap group-name BG-group AP5c83.8fdb.1ed0
+y
+config ap group-name BG-group WH2-02
+y
+config ap group-name BG-group Service-01
+y
+config ap group-name BG-group AP6412.250b.1068
+y
+config ap group-name BG-group AP885a.92a7.61e5
+y
+config ap group-name BG-group Mall-AP5
+y
+config ap group-name BG-group WH2-05
+y
+config ap group-name BG-group AP6412.250b.0f88
+y
+config ap group-name BG-group APf4cf.e2fe.bc14
+y
+config ap group-name BG-group Theater-AP-6
+y
+config ap group-name BG-group AP3c08.f67b.fd40
+y
+config ap group-name BG-group Kitchen
+y
+config ap group-name BG-group Warehouse-Security
+y
+config ap group-name BG-group Warehouse4-AP02
+y
+config ap group-name BG-group SW-SF1-CAP-23B0
+y
+config ap group-name BG-group AP3c08.f609.8e2d
+y
+config ap group-name BG-group Warehouse4-AP01
+y
+
+config ap group-name BG-group APe4aa.5d21.d488
+y
+config ap group-name BG-group MDF-AP-12
+y
+config ap group-name BG-group ServerRoom
+y
+config ap group-name BG-group APd072.dcba.50cb
+y
+config ap group-name BG-group WH1-08
+y
+config ap group-name BG-group SW-SF1-CAP-1B98
+y
+config ap group-name BG-group SW-SF1-CAP-6EB8
+y
+config ap group-name BG-group MaintRoom
+y
+config ap group-name BG-group SW-SF1-CAP-744C
+y
+config ap group-name BG-group APa0ec.f957.0588
+y
+config ap group-name BG-group Academy01
+y
+config ap group-name BG-group PICK-MOD-LEVEL3
+y
+config ap group-name BG-group Diner-AP-02
+y
+config ap group-name BG-group ConfHall-02
+y
+config ap group-name BG-group SW-SF1-CAP-494C
+y
+config ap group-name BG-group Retail-Store01
+y
+config ap group-name BG-group SW-SF1-CAP-C7F8
+y
+config ap group-name BG-group APe4aa.5d5b.26a8
+y
+config ap group-name BG-group PICK-MOD-LEVEL2
+y
+config ap group-name BG-group SW-SF1-CAP-BE30
+y
+
+config ap group-name BG-group AP4c4e.3563.a95f
+y
+config ap group-name BG-group AP78da.6e52.5960
+y
+config ap group-name BG-group MDF-AP-10
+y
+config ap group-name BG-group SW-SF1-CAP-E684
+y
+config ap group-name BG-group Diner-AP-06
+y
+config ap group-name BG-group Mall-AP3
+y
+config ap group-name BG-group MDF-AP-13
+y
+config ap group-name BG-group WHA3-07
+y
+config ap group-name BG-group APd072.dcef.7856
+y
+config ap group-name BG-group APa80c.0de7.3e42
+y
+config ap group-name BG-group AP881d.fcad.a148
+y
+config ap group-name BG-group AP5087.89dd.e57d
+y
+config ap group-name BG-group AP78da.6e85.11e7
+y
+config ap group-name BG-group Retail-AP-2
+y
+config ap group-name BG-group APf4cf.e2a4.b064
+y
+config ap group-name BG-group APe4aa.5d1b.44d4
+y
+config ap group-name BG-group Warehouse4-AP03
+y
+config ap group-name BG-group SW-SF1-CAP-FAA8
+y
+config ap group-name BG-group AP0462.73b4.7cbc
+y
+config ap group-name BG-group AP1005.ca5e.5285
+y
+
+config ap group-name BG-group APf4cf.e2a4.adcc
+y
+config ap group-name BG-group SW-SF1-CAP-85D4
+y
+config ap group-name BG-group Theater-AP-5
+y
+config ap group-name BG-group APe4aa.5d5b.268c
+y
+config ap group-name BG-group Service-02
+y
+config ap group-name BG-group APa46c.2af5.4570
+y
+config ap group-name BG-group TAKE-5-SWU
+y
+config ap group-name BG-group JLester-Home
+y
+config ap group-name BG-group AP5087.89e2.ad4d
+y

@@ -1,0 +1,39 @@
+1841:
+
+rtr-1841 uptime is 12 minutes
+System image file is "flash:c1841-advsecurityk9-mz.151-4.M5.bin"
+*0        CISCO1841             FTX1218W0AJ
+
+
+4500-X:
+DHS-MDF-4500-X_VSS uptime is 24 weeks, 6 days, 20 hours, 26 minutes
+System image file is "bootflash:cat4500e-universalk9.SPA.03.06.05.E.152-2.E5.bin"
+cisco WS-C4500X-16 (MPC8572) processor (revision 9) with 4194304K bytes of physical memory.
+Processor board ID JAE203409BF
+
+3850:
+DHS-MDF-3850 uptime is 24 weeks, 6 days, 20 hours, 59 minutes
+System image file is "flash:packages.conf"
+cisco WS-C3850-48T (MIPS) processor with 4194304K bytes of physical memory.
+Processor board ID FCW2036C0AS
+*    1 56    WS-C3850-48T       03.06.05E         cat3k_caa-universalk9 INSTALL
+Switch uptime                      : 24 weeks, 6 days, 21 hours, 10 minutes
+
+
+show version | inc System serial|^cisco|uptime|Processor|image|Model number|\*
+
+
+DHS-MDF-3850 uptime is 24 weeks, 6 days, 20 hours, 59 minutes
+System image file is "flash:packages.conf"
+cisco WS-C3850-48T (MIPS) processor with 4194304K bytes of physical memory.
+Processor board ID FCW2036C0AS
+*    1 56    WS-C3850-48T       03.06.05SE        cat3k_caa-universalk9 INSTALL
+Switch uptime                      : 24 weeks, 6 days, 21 hours, 10 minutes
+
+
+DHS-MDF-3850 uptime is 24 weeks, 6 days, 20 hours, 59 minutes
+System image file is "flash:packages.conf"
+cisco WS-C3650-48T (MIPS) processor with 4194304K bytes of physical memory.
+Processor board ID FCW2036C0AS
+*    1 56    WS-C3650-48T       03.06.05SE        cat3k_caa-universalk9 INSTALL
+Switch uptime                      : 24 weeks, 6 days, 21 hours, 10 minutes

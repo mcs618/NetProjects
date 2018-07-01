@@ -1,0 +1,62 @@
+C:\Users\Mark\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/Mark/PycharmProjects/main/main.py
+shverlist.splitlines(): ['', 'rtr-1841>terminal length 0', 'rtr-1841>show version | inc System serial|uptime|image|Model number|\\*', 'rtr-1841 uptime is 2 hours, 41 minutes', 'System image file is "flash:c1841-advsecurityk9-mz.151-4.M5.bin"', '*0  \t  CISCO1841             FTX1218W0AJ     ', 'rtr-1841>']
+shverlist: ['rtr-1841 uptime is 2 hours, 41 minutes', 'System image file is "flash:c1841-advsecurityk9-mz.151-4.M5.bin"', '*0  \t  CISCO1841             FTX1218W0AJ     ']
+imagelist: ['System image file is "flash', 'c1841-advsecurityk9-mz.151-4.M5.bin"']
+
+
+======================================================
+              Physical Port Error Report
+======================================================
+Hostname:	rtr-1841
+IP address:	192.168.1.204
+Model:		CISCO1841
+Serial:		FTX1218W0AJ
+Uptime:		2 hours, 41 minutes
+Version:	c1841-advsecurityk9-mz.151-4.M5.bin
+
+Interface FastEthernet0/1
+shverlist.splitlines(): ['', 'rtr-2811>terminal length 0', 'rtr-2811>show version | inc System serial|uptime|image|Model number|\\*', 'rtr-2811 uptime is 2 hours, 41 minutes', 'System image file is "flash:c2800nm-advsecurityk9-mz.151-4.M8.bin"', '*0  \t  CISCO2811             FTX1442A0FK     ', 'rtr-2811>']
+shverlist: ['rtr-2811 uptime is 2 hours, 41 minutes', 'System image file is "flash:c2800nm-advsecurityk9-mz.151-4.M8.bin"', '*0  \t  CISCO2811             FTX1442A0FK     ']
+imagelist: ['System image file is "flash', 'c2800nm-advsecurityk9-mz.151-4.M8.bin"']
+
+
+======================================================
+              Physical Port Error Report
+======================================================
+Hostname:	rtr-2811
+IP address:	192.168.1.205
+Model:		CISCO2811
+Serial:		FTX1442A0FK
+Uptime:		2 hours, 41 minutes
+Version:	c2800nm-advsecurityk9-mz.151-4.M8.bin
+
+Interface FastEthernet0/1
+shverlist.splitlines(): ['', 'switch-2950>terminal length 0', 'switch-2950>show version | inc System serial|uptime|image|Model number|\\*', 'switch-2950 uptime is 2 hours, 42 minutes', 'System image file is "flash:/c2950-i6k2l2q4-mz.121-22.EA13.bin"', 'Model number: WS-C2950-24', 'System serial number: FHK0718W0X9', 'switch-2950>']
+shverlist: ['switch-2950 uptime is 2 hours, 42 minutes', 'System image file is "flash:/c2950-i6k2l2q4-mz.121-22.EA13.bin"', 'Model number: WS-C2950-24', 'System serial number: FHK0718W0X9']
+imagelist: ['System image file is "flash', '/c2950-i6k2l2q4-mz.121-22.EA13.bin"']
+
+
+======================================================
+              Physical Port Error Report
+======================================================
+Hostname:	switch-2950
+IP address:	192.168.1.206
+Model:		WS-C2950-24
+Serial:		FHK0718W0X9
+Uptime:		2 hours, 42 minutes
+Version:	c2950-i6k2l2q4-mz.121-22.EA13.bin
+
+Interface FastEthernet0/24
+Traceback (most recent call last):
+shverlist.splitlines(): ['terminal length 0', 'rtr-1841>show version | inc System serial|uptime|image|Model number|\\*', 'rtr-1841 uptime is 2 hours, 41 minutes', 'System image file is "flash:c1841-advsecurityk9-mz.151-4.M5.bin"', '*0  \t  CISCO1841             FTX1218W0AJ     ', 'rtr-1841>']
+  File "C:/Users/Mark/PycharmProjects/main/main.py", line 205, in <module>
+shverlist: ['System image file is "flash:c1841-advsecurityk9-mz.151-4.M5.bin"', '*0  \t  CISCO1841             FTX1218W0AJ     ']
+    main()
+imagelist: ['*0  \t  CISCO1841             FTX1218W0AJ     ']
+  File "C:/Users/Mark/PycharmProjects/main/main.py", line 196, in main
+    errordetect(a_connection, ip_addrs[i])
+  File "C:/Users/Mark/PycharmProjects/main/main.py", line 57, in errordetect
+    imagetemp = imagelist[1]
+IndexError: list index out of range
+
+Process finished with exit code 1

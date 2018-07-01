@@ -1,0 +1,11 @@
+@Mark Schwartz General pattern is to catch the output and then add a conditional.
+
+In Netmiko it would look like this:
+
+output = net_connect.send_command_timing("clear counters")
+if 'confirm' in output:
+    output += net_connect.send_command_timing("\n")
+print(output)
+
+Note, the use of send_command_timing which is delay based 
+(i.e. waits a certain amount of time).

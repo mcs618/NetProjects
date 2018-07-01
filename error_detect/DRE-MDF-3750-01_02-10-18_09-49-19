@@ -1,0 +1,37 @@
+======================================================
+              Physical Port Error Report
+======================================================
+Hostname:	DRE-MDF-3750-01
+IP address:	192.168.1.205
+Model:		WS-C3750G-12S-S
+Serial:		FDO1321X4CD
+Uptime:		49 minutes
+Version:	c3750-ipbasek9-mz.122-44.SE6/c3750-ipbasek9-mz.122-44.SE6.bin
+[
+    "Interface GigabitEthernet1/0/6",
+    {
+        "runts": 0,
+        "giants": 0,
+        "throttles": 0,
+        "input errors": 0,
+        "CRC": 0,
+        "frame": 0,
+        "overrun": 0,
+        "ignored": 0,
+        "watchdog": 0,
+        "pause input": 0,
+        "input packets with dribble condition detected": 0,
+        "underruns": 0,
+        "output errors": 0,
+        "collisions": 0,
+        "interface resets": 5,
+        "babbles": 0,
+        "late collision": 0,
+        "deferred": 0,
+        "lost carrier": 0,
+        "no carrier": 0,
+        "PAUSE output": 0,
+        "output buffer failures": 0,
+        "output buffers swapped out": 0
+    }
+]

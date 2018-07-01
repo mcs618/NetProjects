@@ -1,0 +1,37 @@
+======================================================
+              Physical Port Error Report
+======================================================
+Hostname:	Carmel-RTR
+IP address:	192.168.3.1
+Model:		CISCO2821
+Serial:		FTX1247AJ6N
+Uptime:		20 weeks, 5 days, 21 hours, 14 minutes
+Version:	c2800nm-adventerprisek9-mz.151-4.M12a.bin
+[
+    "Interface GigabitEthernet0/1",
+    {
+        "runts": 0,
+        "giants": 0,
+        "throttles": 1,
+        "input errors": 8,
+        "CRC": 0,
+        "frame": 0,
+        "overrun": 0,
+        "ignored": 8,
+        "watchdog": 0,
+        "pause input": 0,
+        "underruns": 0,
+        "output errors": 0,
+        "collisions": 0,
+        "interface resets": 0,
+        "unknown protocol drops": 0,
+        "babbles": 0,
+        "late collision": 0,
+        "deferred": 0,
+        "lost carrier": 0,
+        "no carrier": 0,
+        "pause output": 0,
+        "output buffer failures": 0,
+        "output buffers swapped out": 0
+    }
+]

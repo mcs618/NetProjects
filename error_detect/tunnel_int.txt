@@ -1,0 +1,36 @@
+Tunnel1 is up, line protocol is up
+  Hardware is Tunnel
+  Description: DMVPN tunnel
+  Internet address is 172.16.0.1/29
+  MTU 17854 bytes, BW 5000 Kbit/sec, DLY 10000 usec,
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation TUNNEL, loopback not set
+  Keepalive not set
+  Tunnel source 192.168.3.1 (GigabitEthernet0/1)
+   Tunnel Subblocks:
+      src-track:
+         Tunnel1 source tracking subblock associated with GigabitEthernet0/1
+          Set of tunnels with source GigabitEthernet0/1, 1 member (includes iterators), on interface <OK>
+  Tunnel protocol/transport multi-GRE/IP
+    Key 0x4F2CD0, sequencing disabled
+    Checksumming of packets disabled
+  Tunnel TTL 255, Fast tunneling enabled
+  Tunnel transport MTU 1414 bytes
+  Tunnel transmit bandwidth 8000 (kbps)
+  Tunnel receive bandwidth 8000 (kbps)
+  Tunnel protection via IPSec (profile "DMVPN")
+  Last input 00:00:00, output never, output hang never
+  Last clearing of "show interface" counters 3d21h
+  Input queue: 0/75/0/0 (size/max/drops/flushes); Total output drops: 91737
+  Queueing strategy: fifo
+  Output queue: 0/0 (size/max)
+  5 minute input rate 0 bits/sec, 0 packets/sec
+  5 minute output rate 0 bits/sec, 0 packets/sec
+     15595071 packets input, 1533812856 bytes, 0 no buffer
+     Received 0 broadcasts (2629 IP multicasts)
+     0 runts, 0 giants, 0 throttles
+     0 input errors, 0 CRC, 0 frame, 0 overrun, 0 ignored, 0 abort
+     26669958 packets output, 2666472234 bytes, 0 underruns
+     0 output errors, 0 collisions, 0 interface resets
+     0 unknown protocol drops
+     0 output buffer failures, 0 output buffers swapped out
